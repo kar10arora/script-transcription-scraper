@@ -1,5 +1,3 @@
-# script-transcription-scraper
-A Python scraper to automatically extract and save movie and TV show transcripts from Subslikescript. Designed for ease of use, error handling, and dynamic content generation.
 # Script Transcription Scraper 📜
 
 A Python-based web scraper that automates the extraction of movie and TV show transcripts from [Subslikescript](https://subslikescript.com). This project is designed to fetch transcripts dynamically, process the content, and save it as text files for offline usage.
